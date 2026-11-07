@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/turath-php-i3rab-dependency-parse",
+  "description": "Classical Arabic Syntactic I'rab Case-Ending & Dependency Parser (محلل الإعراب النحوي والعوامل والمعمولات)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
